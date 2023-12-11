@@ -1,0 +1,11 @@
+nome = 'Marcos'
+sobrenome = 'Silva'
+profissao = 'Programador'
+
+texto = 'O ' + nome + ' ' + sobrenome + ' é um excelente ' + '[' + profissao + ']'
+
+print(texto)
+
+texto2 = f'O {nome} {sobrenome} é um excelente [{profissao}]'
+
+print(texto2)
