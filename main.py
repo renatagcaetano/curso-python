@@ -1,15 +1,13 @@
-'''
-    Autor
-    Data
-    Versão
-'''
+x = 2
 
-# Meu primeiro código
+print(x)
+print(x + x)
 
-print("Olá")
-print('Tudo bem?')
-print('Que dia é hoje?')
+y = 'Olá'
 
-# Meu segundo código
+print(y)
 
-print('Domingo')
+z = 2.4
+
+print(z)
+print(z + z)
